@@ -6,7 +6,7 @@ function App() {
     <div className='App'>
       <header className='App-header'>
         <img src={logo} className='App-logo' alt='logo' />
-        <p>jpowell.dev</p>
+        <h1>jpowell.dev</h1>
       </header>
     </div>
   );
